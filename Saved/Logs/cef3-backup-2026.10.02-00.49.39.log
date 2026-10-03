@@ -1,0 +1,23 @@
+[33672:17520:1001/184756.515:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[33672:28860:1001/184757.855:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[33672:17520:1001/184758.172:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19788:22736:1001/184759.973:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-B6F3E2382A85570D9F4C8CD806B0DCE6 will be ignored
+[32072:31768:1001/184801.235:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32072:18796:1001/184801.282:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32072:18796:1001/184801.283:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[32072:18796:1001/184801.283:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33672:28900:1001/184801.536:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[33672:17520:1001/184801.613:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[33672:17520:1001/184801.613:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[33672:17520:1001/184801.613:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[33672:17520:1001/184801.613:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[33672:28900:1001/184801.634:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[19252:31900:1001/184801.857:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19252:34000:1001/184801.921:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19252:34000:1001/184801.921:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19252:34000:1001/184801.921:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19252:31900:1001/184802.985:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[33672:17520:1001/184838.190:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33672:17520:1001/184843.189:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33672:17520:1001/184914.747:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[33672:17520:1001/184939.533:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

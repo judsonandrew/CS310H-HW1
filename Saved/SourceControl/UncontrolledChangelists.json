@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rober/OneDrive/Documents/Unreal Projects/CS310_HW1/Content/MyBlueprints/SpinningObject.uasset",
+				"C:/Users/rober/OneDrive/Documents/Unreal Projects/CS310_HW1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/Q2/MCRNCBQZFZSHTXUN7M3K9Y.uasset",
+				"C:/Users/rober/OneDrive/Documents/Unreal Projects/CS310_HW1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/O5/8U0YFTPGQZP5JSI1VKMHVJ.uasset",
+				"C:/Users/rober/OneDrive/Documents/Unreal Projects/CS310_HW1/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/3L/6UHH17ZH2YGBO54AGOQZR4.uasset",
+				"C:/Users/rober/OneDrive/Documents/Unreal Projects/CS310_HW1/Content/FirstPerson/Lvl_FirstPerson.umap",
+				"C:/Users/rober/OneDrive/Documents/Unreal Projects/CS310_HW1/Content/MyBlueprints/FlammableObject.uasset"
+			]
+		}
+	]
+}
